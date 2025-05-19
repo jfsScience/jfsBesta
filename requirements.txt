@@ -1,5 +1,5 @@
 # Core
-PyQt6==6.6.0
+PyQt6==6.9.0
 pyserial==3.5
 
 # Dev-Tools (optional)
