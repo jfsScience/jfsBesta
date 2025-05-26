@@ -1,6 +1,6 @@
 # jfsBesta - Solvent Recycler Control
 
-![Screenshot](docs/screenshots/main_window.png)
+![Screenshot](main.JPG)
 
 Python/PyQt6 GUI zur Steuerung eines Lösemittel-Recyclers über RS232.
 
